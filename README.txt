@@ -1,4 +1,3 @@
-
 # Introduction
 
 This website was developed for a client in the filmmaking industry.
